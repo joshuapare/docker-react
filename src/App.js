@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and make yourself stupid
+          Learn React you stupid idiot
         </a>
       </header>
     </div>
